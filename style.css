@@ -745,7 +745,8 @@ main {
     /* 150% */
     background-image: url("Images/Rectangle 10.png");
 
-}
+} 
+ 
 
 .gg {
     margin-left: 50px;
@@ -755,6 +756,11 @@ main {
 .fff {
     list-style: disc;
     display: block;
+}
+.fff li{
+    width: 400px;
+    margin-left: -20px;
+    line-height: 25px;
 }
 
 .btn99 button {
@@ -1093,7 +1099,8 @@ footer {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-left: -5px;
+        /* margin-left: -5px; */
+        padding: 10px;
     }
 
     .head p {
@@ -1606,7 +1613,7 @@ footer {
 
     .fff li {
         width: 450px;
-        line-height: 25px;
+        line-height: 30px;
 
     }
 
@@ -1627,11 +1634,7 @@ footer {
 .text-al ul{
     margin-top: -119px;
 }
-.head{
-    padding-left: 100px;
-}
-    /* video add pending */
-    /* form st */
+
     .form {
         display: flex;
         flex-direction: column;
