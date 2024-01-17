@@ -1111,6 +1111,7 @@ footer {
         line-height: normal;
         width: max-content;
         height: max-content;
+        margin-left: -100px;
     }
 
     .main-left {
