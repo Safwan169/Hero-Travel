@@ -626,7 +626,6 @@ main {
     margin-top: 16px;
 }
 
-.book-btn {}
 
 .book-btn button {
     color: #FFF;
@@ -1797,64 +1796,4 @@ footer {
         line-height: normal;
         margin: 100px;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    /* }
-    .travel-logo{
-        height: 13px;
-        align-items: center;
-
-
-    }
-    .travel-logo img{
-
-        height: 16px;
-    }
-    .logo-text{
-    font-size: 16px;  
-    }
-.txt-clr {
-    font-size: 16px;
-
 }
-
-.nav-menu{
-    display: none;
-}
-.first-img{
-    width: 400px;
-   
-}
-.header-img{
-    width: 335px;
-height: 483px;
-flex-shrink: 0;
-display: grid;
-grid-template-columns: 1fr;
-}
-.header-img-text1{
-    color: #FFF;
-
-font-size: 22px;
-
-} */
-
-
-
-
-}
-
-*/
