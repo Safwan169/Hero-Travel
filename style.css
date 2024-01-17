@@ -969,13 +969,14 @@ footer {
     }
 
     .txt-clr {
-        font-size: 26px;
+        font-size: 30px;
     }
 
     .nav-menu #bar {
         display: block;
         width: 30px;
         margin-right: 30px;
+        margin-bottom: 40px;
     }
 
     .nav-menu ul li a {
